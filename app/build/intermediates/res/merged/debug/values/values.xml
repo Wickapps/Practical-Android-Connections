@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Green">#00ff00</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="app_name">Connections</string>
+    <string name="available">Available</string>
+    <string name="checking">Checking</string>
+    <string name="connected">Connected</string>
+    <string name="exit">Exit</string>
+    <string name="mobile">MOBILE</string>
+    <string name="notavailable">Not Available</string>
+    <string name="notconnected">Not Connected</string>
+    <string name="scanning">Scanning</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="unknown">UNKNOWN</string>
+    <string name="wifi">WIFI</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
